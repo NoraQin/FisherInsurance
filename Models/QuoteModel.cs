@@ -1,5 +1,5 @@
 using System;
-namespace FisherInsurance.Models
+namespace FisherInsurance.Quotes
 {    
         public class Quote    {        
             public int Id { get; set; }        
